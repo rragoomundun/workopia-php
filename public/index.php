@@ -1,7 +1,7 @@
 <?php
 require_once '../helpers.php';
-require_once basePath('Router.php');
-require basePath('Database.php');
+require_once basePath('Framework/Router.php');
+require basePath('Framework/Database.php');
 
 $config = require basePath('config/db.php');
 
