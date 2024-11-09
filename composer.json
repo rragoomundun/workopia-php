@@ -1,0 +1,16 @@
+{
+  "name": "rragoomundun/workopia-php",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Raphael Ragoomundun",
+      "email": "rragoomundun@protonmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
