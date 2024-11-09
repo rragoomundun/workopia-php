@@ -2,6 +2,8 @@
 require_once __DIR__ . '/../vendor/autoload.php';
 require_once '../helpers.php';
 
+use Framework\Router;
+
 // Instantiating the router
 $router = new Router();
 
